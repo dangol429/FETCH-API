@@ -18,7 +18,15 @@ h2 {
     color: #4db5ff;
     text-align: center;
     font-size: 4rem;
+    font-family: 'Times New Roman', Times, serif;
 }
 span {
     color: rgba(255, 255, 255, 0.6);
+}
+.Loading{
+    color:#fff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: 3rem;
+
 }
