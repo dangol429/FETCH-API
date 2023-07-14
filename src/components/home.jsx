@@ -12,7 +12,7 @@ const MyComponent = () => {
   }, [dispatch]);
 
   if (data.length === 0) {
-    return <div>Loading...</div>;
+    return <div className='Loading'>Loading...</div>;
   }
 
   return (
