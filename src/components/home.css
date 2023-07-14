@@ -1,0 +1,24 @@
+.container{
+    position: absolute;
+    text-align: center;
+    font-size: 1.2rem;
+    color: white;
+    display:flex;
+    width: 80rem;
+    left: 50%;
+    transform: translate(-50%);
+    flex-direction: row;
+    gap: 2rem;
+    justify-content: center;
+}
+body {
+    background-image: url(https://images.unsplash.com/photo-1593959734793-6e92d102da1e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80);
+}
+h2 {
+    color: #4db5ff;
+    text-align: center;
+    font-size: 4rem;
+}
+span {
+    color: rgba(255, 255, 255, 0.6);
+}
